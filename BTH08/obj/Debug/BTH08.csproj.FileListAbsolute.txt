@@ -1,0 +1,11 @@
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab05\BTH08\bin\Debug\BTH08.exe.config
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab05\BTH08\bin\Debug\BTH08.exe
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab05\BTH08\bin\Debug\BTH08.pdb
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab05\BTH08\obj\Debug\BTH08.csproj.AssemblyReference.cache
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab05\BTH08\obj\Debug\BTH08.Form1.resources
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab05\BTH08\obj\Debug\BTH08.Properties.Resources.resources
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab05\BTH08\obj\Debug\BTH08.csproj.GenerateResource.cache
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab05\BTH08\obj\Debug\BTH08.csproj.CoreCompileInputs.cache
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab05\BTH08\obj\Debug\BTH08.exe
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab05\BTH08\obj\Debug\BTH08.pdb
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab05\BTH08\obj\Debug\BTH08.exe.config
